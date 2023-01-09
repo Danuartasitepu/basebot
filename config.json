@@ -1,0 +1,34 @@
+{
+  "ownerNumber":"6287778405247@s.whatsapp.net",
+  "ownerName": "Dev Reii|X-Angel-Botz",
+  "botName": "Reii|X-Angel-Botz",
+  "sessionName": "kizakixd",
+  "pathimg": "./media/chitanda.jpg",
+  "thumb": "./media/thumb.jpg",
+  "footer": " ?????? ????",
+  "apikey": "e8a071bda49918cb5d5c0018129a9c268948ebfe1a2ad6b903866acedda9670c",
+  "igCookie": "csrftoken=GoHsn8yGVpkHTT6BVK7twlhxnhJQ4qKm; sessionid=49973695710%3As1MBL5FaNYmil3%3A19%3AAYduYgUpd14PfziTUk3uxsYznAEjWoQaenDDMUzAhA; ds_user_id=49973695710;",  
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+    "prem": 35,
+    "user": 15
+  },
+  "packname": "Reii|X-Angel-Botz",
+  "author": "+62 877-7840-5247",
+  "playlist": [
+    "https://open.spotify.com/playlist/66E9wQae4ME7kNeFkGQUpl",
+    "https://open.spotify.com/playlist/3uml6rXP7L9UVVCKPbe7U4",
+    "https://open.spotify.com/playlist/37i9dQZF1DX86qIyFMUwi4"
+  ],
+  "payment": {
+    "gopay": {
+      "nomer": "087778405247",
+      "atas_nama": "Reii"
+    },
+    "dana": {
+      "nomer": "087778405247",
+      "atas_nama": "Reii"
+    }
+  }
+}
