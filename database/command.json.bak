@@ -1,0 +1,414 @@
+[
+  {
+    "nama": "#listsewa",
+    "count": 1621
+  },
+  {
+    "nama": "#hidetag",
+    "count": 174
+  },
+  {
+    "nama": "#delete",
+    "count": 110
+  },
+  {
+    "nama": "#addsewa",
+    "count": 105
+  },
+  {
+    "nama": "#open",
+    "count": 105
+  },
+  {
+    "nama": "#close",
+    "count": 82
+  },
+  {
+    "nama": "#limit",
+    "count": 82
+  },
+  {
+    "nama": "#casino",
+    "count": 74
+  },
+  {
+    "nama": "#sticker",
+    "count": 66
+  },
+  {
+    "nama": "#help",
+    "count": 54
+  },
+  {
+    "nama": "#family100",
+    "count": 52
+  },
+  {
+    "nama": "#kick",
+    "count": 49
+  },
+  {
+    "nama": "#tictactoe",
+    "count": 46
+  },
+  {
+    "nama": "#welcome",
+    "count": 44
+  },
+  {
+    "nama": "#darkjoke",
+    "count": 43
+  },
+  {
+    "nama": "#emojimix",
+    "count": 39
+  },
+  {
+    "nama": "#cecan",
+    "count": 39
+  },
+  {
+    "nama": "#tebaklagu",
+    "count": 36
+  },
+  {
+    "nama": "#afk",
+    "count": 34
+  },
+  {
+    "nama": "#setleft",
+    "count": 33
+  },
+  {
+    "nama": "#waifu",
+    "count": 29
+  },
+  {
+    "nama": "#antilink",
+    "count": 27
+  },
+  {
+    "nama": "#add",
+    "count": 24
+  },
+  {
+    "nama": "#owner",
+    "count": 21
+  },
+  {
+    "nama": "#setwelcome",
+    "count": 20
+  },
+  {
+    "nama": "#tebakgambar",
+    "count": 18
+  },
+  {
+    "nama": "#antiwame",
+    "count": 16
+  },
+  {
+    "nama": "#infobot",
+    "count": 16
+  },
+  {
+    "nama": "#dashboard",
+    "count": 15
+  },
+  {
+    "nama": "#checksewa",
+    "count": 15
+  },
+  {
+    "nama": "#setcmd",
+    "count": 15
+  },
+  {
+    "nama": "#quotes",
+    "count": 15
+  },
+  {
+    "nama": "#setopen",
+    "count": 14
+  },
+  {
+    "nama": "#runtime",
+    "count": 13
+  },
+  {
+    "nama": "#tiktok",
+    "count": 11
+  },
+  {
+    "nama": "#linkgc",
+    "count": 11
+  },
+  {
+    "nama": "#sewabot",
+    "count": 11
+  },
+  {
+    "nama": "#kuis",
+    "count": 10
+  },
+  {
+    "nama": "#play",
+    "count": 10
+  },
+  {
+    "nama": "#couple",
+    "count": 10
+  },
+  {
+    "nama": "#setclose",
+    "count": 9
+  },
+  {
+    "nama": "#listbahasa",
+    "count": 8
+  },
+  {
+    "nama": "#ytmp3",
+    "count": 7
+  },
+  {
+    "nama": "#delcmd",
+    "count": 7
+  },
+  {
+    "nama": "#donate",
+    "count": 7
+  },
+  {
+    "nama": "#tiktoknowm",
+    "count": 6
+  },
+  {
+    "nama": "#meme",
+    "count": 6
+  },
+  {
+    "nama": "#delsetwelcome",
+    "count": 6
+  },
+  {
+    "nama": "#pinterest",
+    "count": 6
+  },
+  {
+    "nama": "#igstalk",
+    "count": 5
+  },
+  {
+    "nama": "#setproses",
+    "count": 5
+  },
+  {
+    "nama": "#addprem",
+    "count": 5
+  },
+  {
+    "nama": "#nyerah",
+    "count": 5
+  },
+  {
+    "nama": "#attp",
+    "count": 4
+  },
+  {
+    "nama": "#nulis",
+    "count": 4
+  },
+  {
+    "nama": "#ttp",
+    "count": 4
+  },
+  {
+    "nama": "#cogan",
+    "count": 4
+  },
+  {
+    "nama": "#promote",
+    "count": 4
+  },
+  {
+    "nama": "#revoke",
+    "count": 4
+  },
+  {
+    "nama": "#sourcecode",
+    "count": 4
+  },
+  {
+    "nama": "#join",
+    "count": 3
+  },
+  {
+    "nama": "#changewelcome",
+    "count": 3
+  },
+  {
+    "nama": "#ytmp4",
+    "count": 3
+  },
+  {
+    "nama": "#buylimit",
+    "count": 3
+  },
+  {
+    "nama": "#setnamegc",
+    "count": 3
+  },
+  {
+    "nama": "#delsetleft",
+    "count": 3
+  },
+  {
+    "nama": "#buygamelimit",
+    "count": 3
+  },
+  {
+    "nama": "#delsetopen",
+    "count": 2
+  },
+  {
+    "nama": "#start",
+    "count": 2
+  },
+  {
+    "nama": "#lirik",
+    "count": 2
+  },
+  {
+    "nama": "#nuliskiri",
+    "count": 2
+  },
+  {
+    "nama": "#menu",
+    "count": 2
+  },
+  {
+    "nama": "#cekbandwidth",
+    "count": 2
+  },
+  {
+    "nama": "#speed",
+    "count": 2
+  },
+  {
+    "nama": "#grupwa",
+    "count": 2
+  },
+  {
+    "nama": "#demote",
+    "count": 2
+  },
+  {
+    "nama": "#changeopen",
+    "count": 2
+  },
+  {
+    "nama": "#ytsearch",
+    "count": 2
+  },
+  {
+    "nama": "#setppgrup",
+    "count": 2
+  },
+  {
+    "nama": "#bcsewa",
+    "count": 2
+  },
+  {
+    "nama": "#broadcast",
+    "count": 2
+  },
+  {
+    "nama": "#tomp3",
+    "count": 1
+  },
+  {
+    "nama": "#smeme",
+    "count": 1
+  },
+  {
+    "nama": "#nuliskanan",
+    "count": 1
+  },
+  {
+    "nama": "#changedone",
+    "count": 1
+  },
+  {
+    "nama": "#setdone",
+    "count": 1
+  },
+  {
+    "nama": "#stop",
+    "count": 1
+  },
+  {
+    "nama": "#resetlimit",
+    "count": 1
+  },
+  {
+    "nama": "#toimg",
+    "count": 1
+  },
+  {
+    "nama": "#fakehidetag",
+    "count": 1
+  },
+  {
+    "nama": "#react",
+    "count": 1
+  },
+  {
+    "nama": "#cekdrive",
+    "count": 1
+  },
+  {
+    "nama": "#delsewa",
+    "count": 1
+  },
+  {
+    "nama": "#changeclose",
+    "count": 1
+  },
+  {
+    "nama": "#exif",
+    "count": 1
+  },
+  {
+    "nama": "#anonymous",
+    "count": 1
+  },
+  {
+    "nama": "#googlelens",
+    "count": 1
+  },
+  {
+    "nama": "#setppbot",
+    "count": 1
+  },
+  {
+    "nama": "#setdesc",
+    "count": 1
+  },
+  {
+    "nama": "#self",
+    "count": 1
+  },
+  {
+    "nama": "#public",
+    "count": 1
+  },
+  {
+    "nama": "#tiktokaudio",
+    "count": 1
+  },
+  {
+    "nama": "#daftarprem",
+    "count": 1
+  }
+]
